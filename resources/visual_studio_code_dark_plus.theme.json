@@ -1,0 +1,66 @@
+{
+  "name": "Visual Studio Code Dark Plus",
+  "dark": true,
+  "author": "Alexander Makarov",
+  "editorScheme": "/visual_studio_code_dark_plus.xml",
+  "ui": {
+    "*": {
+      "background": "#323232"
+    },
+    "Borders": {
+      "color": "#242425",
+      "ContrastBorderColor": "#323232"
+    },
+    "EditorTabs": {
+      "selectedBackground": "#1d1d1d",
+      "underlineColor": "#1d1d1d",
+      "selectedForeground": "#e6e6e6",
+      "borderColor": "#2c2c2c",
+      "inactiveMaskColor": "#2c2c2c"
+    },
+    "Panel" : {
+      "foreground": "#acacac",
+      "background": "#323232"
+    },
+    "Tree": {
+      "background": "#242425",
+      "foreground": "#c7c7c7",
+      "selectionBackground": "#094770",
+      "selectionForeground": "#f8fafb"
+    },
+    "Menu": {
+      "background": "#242425",
+      "foreground": "#cbcbc2",
+      "borderColor": "#141414",
+      "separatorColor": "#606060"
+    },
+    "MenuBar": {
+      "borderColor": "#242425"
+    },
+    "MenuItem": {
+      "background": "#242425",
+      "foreground": "#cbcbc2",
+      "selectionBackground": "#094770"
+    },
+    "NavBar": {
+      "borderColor": "#323232"
+    },
+    "CompletionPopup": {
+      "background": "#242425",
+      "foreground": "#cecece"
+    },
+    "Button": {
+      "arc": 2
+    },
+    "StatusBar": {
+      "borderColor": "#323232"
+    },
+    "ToolWindow": {
+      "Header": {
+        "borderColor": "#363637",
+        "background": "#363637",
+        "inactiveBackground": "#363637"
+      }
+    }
+  }
+}
