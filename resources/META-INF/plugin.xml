@@ -36,4 +36,5 @@
     <!-- Add your actions here -->
   </actions>
 
+  <depends>com.intellij.modules.lang</depends>
 </idea-plugin>
