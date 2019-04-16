@@ -1,5 +1,5 @@
 <idea-plugin>
-  <id>com.your.company.unique.plugin.id</id>
+  <id>com.samdark.intellij-visual-studio-code-dark-plus</id>
   <name>Visual Studio Code Dark Plus Theme</name>
   <version>1.0</version>
   <vendor email="sam@rmcreative.ru" url="https://rmcreative.ru">Alexander Makarov</vendor>
