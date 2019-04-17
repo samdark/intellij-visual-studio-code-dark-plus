@@ -9,6 +9,11 @@
     ]]></description>
 
   <change-notes><![CDATA[
+    <b>1.3</b>
+    <ul>
+        <li>Improved markdown highlighting.</li>
+    </ul>
+
     <b>1.2</b>
     <ul>
         <li>Removed screenshot from description</li>
