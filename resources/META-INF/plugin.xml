@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>com.samdark.intellij-visual-studio-code-dark-plus</id>
   <name>Visual Studio Code Dark Plus Theme</name>
-  <version>1.4</version>
+  <version>1.5</version>
   <vendor email="sam@rmcreative.ru" url="https://rmcreative.ru">Alexander Makarov</vendor>
 
   <description><![CDATA[
@@ -9,6 +9,11 @@
     ]]></description>
 
   <change-notes><![CDATA[
+    <b>1.5</b>
+    <ul>
+      <li>Removed injected language block highlighting.</li>
+    </ul>
+
     <b>1.4</b>
     <ul>
       <li>Adjusted minimal version of IDEA to match the one themes were introduced.</li>

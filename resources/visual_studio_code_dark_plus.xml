@@ -3,7 +3,7 @@
     <property name="created">2019-04-17T20:42:50</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-04-14T16:30:15</property>
+    <property name="modified">2019-04-18T19:41:22</property>
     <property name="originalScheme">Visual Studio Code Dark Plus</property>
   </metaInfo>
   <colors>
@@ -296,6 +296,9 @@
         <option name="BACKGROUND" value="33393f" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
+    </option>
+    <option name="INJECTED_LANGUAGE_FRAGMENT">
+      <value />
     </option>
     <option name="JS.PARAMETER">
       <value>
