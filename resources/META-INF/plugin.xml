@@ -9,6 +9,11 @@
     ]]></description>
 
   <change-notes><![CDATA[
+    <b>1.6</b>
+    <ul>
+      <li>Defined color scheme in the plugin.xml.</li>
+    </ul>
+
     <b>1.5</b>
     <ul>
       <li>Removed injected language block highlighting.</li>
@@ -44,15 +49,10 @@
   <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
   <idea-version since-build="191.0"/>
 
-  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
-       on how to target different products -->
-  <!-- uncomment to enable plugin in all products
-  <depends>com.intellij.modules.lang</depends>
-  -->
-
   <extensions defaultExtensionNs="com.intellij">
     <!-- Add your extensions here -->
     <themeProvider id="e843a6a0-d4df-4c2a-b5b6-99dcbb839b8d" path="/visual_studio_code_dark_plus.theme.json"/>
+    <bundledColorScheme path="/resources/visual_studio_code_dark_plus"/>
   </extensions>
 
   <actions>
