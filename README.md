@@ -1,6 +1,6 @@
 # Visual Studio Code Dark Plus theme for JetBrains IDEs
 
-Visual Studio Code Dark Plus inspired theme for JetBrains IDEs.
+A theme for JetBrains IDEs inspired by default Visual Studio Code "Dark Plus" theme.
 
 ## Screenshot
 
