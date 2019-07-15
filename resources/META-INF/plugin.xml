@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>com.samdark.intellij-visual-studio-code-dark-plus</id>
   <name>Visual Studio Code Dark Plus Theme</name>
-  <version>1.6</version>
+  <version>1.7</version>
   <vendor email="sam@rmcreative.ru" url="https://rmcreative.ru">Alexander Makarov</vendor>
 
   <description><![CDATA[
@@ -9,6 +9,11 @@
     ]]></description>
 
   <change-notes><![CDATA[
+    <b>1.7</b>
+    <ul>
+      <li>Fixed color scheme in the plugin.xml.</li>
+    </ul>
+
     <b>1.6</b>
     <ul>
       <li>Fix inconsistencies in Java and Kotlin color schemas.</li>
@@ -53,7 +58,7 @@
   <extensions defaultExtensionNs="com.intellij">
     <!-- Add your extensions here -->
     <themeProvider id="e843a6a0-d4df-4c2a-b5b6-99dcbb839b8d" path="/visual_studio_code_dark_plus.theme.json"/>
-    <bundledColorScheme path="/resources/visual_studio_code_dark_plus"/>
+    <bundledColorScheme path="/visual_studio_code_dark_plus"/>
   </extensions>
 
   <actions>
