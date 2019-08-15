@@ -2,6 +2,11 @@
 
 A dark theme for JetBrains IDEs inspired by default Visual Studio Code "Dark Plus" theme.
 
+## Installation
+
+1. Install "Visual Studio Code Dark Plus Theme" plugin
+2. Select theme in Settings → Appearance & Behavior → Appearance → Theme
+
 ## Screenshot
 
 That is how it looks with Fira Code font in IDEA:
@@ -11,8 +16,3 @@ That is how it looks with Fira Code font in IDEA:
 And here is PhpStorm:
 
 ![](phpstorm.png)
-
-## Installation
-
-1. Install "Visual Studio Code Dark Plus Theme" plugin
-2. Select theme in Settings → Appearance & Behavior → Appearance → Theme
