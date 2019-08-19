@@ -4,7 +4,7 @@ A dark theme for JetBrains IDEs inspired by default Visual Studio Code "Dark Plu
 
 ## Installation
 
-1. Install "Visual Studio Code Dark Plus Theme" plugin via Setings → Plugins → Marketplace
+1. Install "Visual Studio Code Dark Plus Theme" plugin via Settings → Plugins → Marketplace
 2. Select theme in Settings → Appearance & Behavior → Appearance → Theme
 
 ## Screenshot
