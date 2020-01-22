@@ -29,10 +29,15 @@
       "selectionForeground": "#f8fafb"
     },
     "Menu": {
-      "background": "#242425",
+      "background": "#323232",
       "foreground": "#cbcbc2",
       "borderColor": "#141414",
       "separatorColor": "#606060"
+    },
+    "PopupMenuSeparator": {
+      "height": 13,
+      "stripeIndent": 6,
+      "stripeWidth": 1
     },
     "MenuBar": {
       "borderColor": "#242425"
