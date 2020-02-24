@@ -1,8 +1,8 @@
 <scheme name="Visual Studio Code Dark Plus" version="143" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2020-02-05T15:57:56</property>
-    <property name="ide">GoLand</property>
-    <property name="ideVersion">2019.3.2.0.0</property>
+    <property name="created">2019-07-05T16:51:16</property>
+    <property name="ide">Idea</property>
+    <property name="ideVersion">2019.1.2.0.0</property>
     <property name="modified">2020-02-05T15:58:12</property>
     <property name="originalScheme">Visual Studio Code Dark Plus</property>
   </metaInfo>
@@ -11,21 +11,24 @@
     <option name="CARET_ROW_COLOR" value="262626" />
     <option name="GUTTER_BACKGROUND" value="1d1d1d" />
     <option name="INDENT_GUIDE" value="3b3b3b" />
-    <option name="LINE_NUMBERS_COLOR" value="848484" />
     <option name="RIGHT_MARGIN_COLOR" value="3b3b3b" />
     <option name="SELECTION_BACKGROUND" value="264e77" />
-    <option name="ScrollBar.Mac.hoverThumbBorderColor" value="4e4e4e" />
-    <option name="ScrollBar.Mac.hoverThumbColor" value="4e4e4e" />
-    <option name="ScrollBar.Mac.hoverTrackColor" value="1d1d1d" />
-    <option name="ScrollBar.Mac.thumbBorderColor" value="414141" />
-    <option name="ScrollBar.Mac.thumbColor" value="414141" />
+    <option name="LINE_NUMBERS_COLOR" value="848484" />
+    
     <option name="ScrollBar.Mac.trackColor" value="1d1d1d" />
-    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="4e4e4e" />
-    <option name="ScrollBar.Transparent.hoverThumbColor" value="4e4e4e" />
-    <option name="ScrollBar.Transparent.hoverTrackColor" value="1d1d1d" />
-    <option name="ScrollBar.Transparent.thumbBorderColor" value="414141" />
-    <option name="ScrollBar.Transparent.thumbColor" value="414141" />
+    <option name="ScrollBar.Mac.thumbColor" value="414141" />
+    <option name="ScrollBar.Mac.thumbBorderColor" value="414141" />
+    <option name="ScrollBar.Mac.hoverTrackColor" value="1d1d1d" />
+    <option name="ScrollBar.Mac.hoverThumbColor" value="4e4e4e" />
+    <option name="ScrollBar.Mac.hoverThumbBorderColor" value="4e4e4e" />
+    
     <option name="ScrollBar.Transparent.trackColor" value="1d1d1d" />
+    <option name="ScrollBar.Transparent.thumbColor" value="414141" />
+    <option name="ScrollBar.Transparent.thumbBorderColor" value="414141" />
+    <option name="ScrollBar.Transparent.hoverTrackColor" value="1d1d1d" />
+    <option name="ScrollBar.Transparent.hoverThumbColor" value="4e4e4e" />
+    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="4e4e4e" />
+    
     <option name="VISUAL_INDENT_GUIDE" value="3b3b3b" />
   </colors>
   <attributes>
