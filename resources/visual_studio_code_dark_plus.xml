@@ -34,7 +34,7 @@
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
       <value />
     </option>
-    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="" />
+    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
     <option name="BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="f44747" />
@@ -51,6 +51,7 @@
         <option name="FOREGROUND" value="dcdcaa" />
       </value>
     </option>
+    <option name="BASH.HERE_DOC" baseAttributes="DEFAULT_STRING" />
     <option name="BASH.HERE_DOC_END">
       <value>
         <option name="FOREGROUND" value="c586c0" />
@@ -61,6 +62,7 @@
         <option name="FOREGROUND" value="c586c0" />
       </value>
     </option>
+    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BASH.VAR_DEF">
       <value>
         <option name="FOREGROUND" value="d3d3c8" />
@@ -159,7 +161,7 @@
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="569cd6" />
+        <option name="FOREGROUND" value="d3d3d3" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT">
@@ -494,12 +496,13 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value />
     </option>
-    <option name="JAVA_KEYWORD" baseAttributes="" />
+    <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JS.PARAMETER">
       <value>
         <option name="FOREGROUND" value="9cdcfe" />
       </value>
     </option>
+    <option name="KOTLIN_ANNOTATION" baseAttributes="ANNOTATION_NAME_ATTRIBUTES" />
     <option name="KOTLIN_BACKING_FIELD_VARIABLE">
       <value />
     </option>
@@ -520,6 +523,8 @@
     <option name="KOTLIN_OBJECT">
       <value />
     </option>
+    <option name="KOTLIN_PACKAGE_FUNCTION_CALL" baseAttributes="DEFAULT_STATIC_METHOD" />
+    <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
     <option name="MARKDOWN_AUTO_LINK">
       <value>
         <option name="EFFECT_COLOR" value="d4d4d4" />
@@ -639,6 +644,7 @@
     <option name="PHP_ALIAS_REFERENCE">
       <value />
     </option>
+    <option name="PHP_CONSTANT" baseAttributes="DEFAULT_CONSTANT" />
     <option name="PHP_EXEC_COMMAND_ID">
       <value>
         <option name="FOREGROUND" value="cd905b" />
@@ -659,10 +665,10 @@
         <option name="FOREGROUND" value="94dbfd" />
       </value>
     </option>
-    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="" />
-    <option name="PROPERTIES.KEY" baseAttributes="" />
-    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="" />
-    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="" />
+    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
+    <option name="PROPERTIES.KEY" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="DEFAULT_OPERATION_SIGN" />
+    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="REGEXP.CHAR_CLASS">
       <value>
         <option name="FOREGROUND" value="d16969" />
@@ -702,7 +708,8 @@
     <option name="STATIC_METHOD_ATTRIBUTES">
       <value />
     </option>
-    <option name="Static method access" baseAttributes="" />
+    <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
+    <option name="Static property reference ID" baseAttributes="STATIC_FINAL_FIELD_ATTRIBUTES" />
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="d4d4d4" />
@@ -755,7 +762,7 @@
     <option name="XPATH.BRACKET">
       <value />
     </option>
-    <option name="XPATH.KEYWORD" baseAttributes="" />
-    <option name="XPATH.XPATH_VARIABLE" baseAttributes="" />
+    <option name="XPATH.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
   </attributes>
 </scheme>
