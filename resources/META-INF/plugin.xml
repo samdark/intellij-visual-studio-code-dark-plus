@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>com.samdark.intellij-visual-studio-code-dark-plus</id>
   <name>Visual Studio Code Dark Plus Theme</name>
-  <version>1.8</version>
+  <version>1.9</version>
   <vendor email="sam@rmcreative.ru" url="https://rmcreative.ru">Alexander Makarov</vendor>
 
   <description><![CDATA[
@@ -9,6 +9,11 @@
     ]]></description>
 
   <change-notes><![CDATA[
+    <b>1.9</b>
+    <ul>
+      <li>Improve Golang highlighting.</li>
+    </ul>
+
     <b>1.8</b>
     <ul>
       <li>Adjust menu separator to make it narrower and fix its color.</li>
