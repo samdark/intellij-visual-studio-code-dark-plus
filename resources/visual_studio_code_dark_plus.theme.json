@@ -8,15 +8,18 @@
       "background": "#323232"
     },
     "Borders": {
-      "color": "#242425",
+      "color": "#323232",
       "ContrastBorderColor": "#323232"
     },
     "EditorTabs": {
       "selectedBackground": "#1d1d1d",
-      "underlineColor": "#1d1d1d",
+      "underlinedTabBackground": "#1d1d1d",
       "selectedForeground": "#e6e6e6",
       "borderColor": "#2c2c2c",
-      "inactiveMaskColor": "#2c2c2c"
+      "inactiveMaskColor": "#2c2c2c",
+      "inactiveColoredFileBackground": "#2c2c2c",
+      "underlineHeight": 0,
+      "borderColor": "#323232"
     },
     "Panel" : {
       "foreground": "#acacac",
@@ -40,7 +43,7 @@
       "stripeWidth": 1
     },
     "MenuBar": {
-      "borderColor": "#242425"
+      "borderColor": "#323232"
     },
     "MenuItem": {
       "background": "#242425",
@@ -62,9 +65,9 @@
     },
     "ToolWindow": {
       "Header": {
-        "borderColor": "#363637",
-        "background": "#363637",
-        "inactiveBackground": "#363637"
+        "borderColor": "#323232",
+        "background": "#323232",
+        "inactiveBackground": "#323232"
       }
     }
   }
