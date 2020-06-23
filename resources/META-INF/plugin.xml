@@ -9,6 +9,11 @@
     ]]></description>
 
   <change-notes><![CDATA[
+    <b>2.0</b>
+    <ul>
+      <li>Adjust $this color in PHP code to match VS Code.</li>
+    </ul>
+
     <b>1.9</b>
     <ul>
       <li>Improve Golang highlighting.</li>
