@@ -13,6 +13,7 @@
     <ul>
       <li>Adjust $this color in PHP code to match VS Code.</li>
       <li>Add logo by Alexey Kunitsky (Thank you!)</li>
+      <li>Use new attributes for tab colors to support newer IDE versions (gayanper)</li>
     </ul>
 
     <b>1.9</b>
