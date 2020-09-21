@@ -9,6 +9,12 @@
     ]]></description>
 
   <change-notes><![CDATA[
+    <b>2.2</b>
+
+    <ul>
+      <li>Fix highlighting of Razor code blocks.</li>
+    </ul>
+
     <b>2.1</b>
     <ul>
       <li>Adjust Python colors to more closely match VS Code Dark+ (jacobj)</li>
