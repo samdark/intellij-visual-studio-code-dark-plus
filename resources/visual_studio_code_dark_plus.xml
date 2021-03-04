@@ -175,6 +175,16 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
+      <value>
+        <option name="FOREGROUND" value="9cdcfe" />
+      </value>
+    </option>
+    <option name="DEFAULT_DOC_MARKUP">
+      <value>
+        <option name="FOREGROUND" value="569cd5" />
+      </value>
+    </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
         <option name="FOREGROUND" value="dbdbaa" />
@@ -498,6 +508,11 @@
     </option>
     <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JS.CLASS">
+      <value>
+        <option name="FOREGROUND" value="39c8b0" />
+      </value>
+    </option>
+    <option name="JS.DOC_TYPE">
       <value>
         <option name="FOREGROUND" value="39c8b0" />
       </value>
