@@ -494,6 +494,7 @@
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="33393f" />
+        <option name="ERROR_STRIPE_COLOR" value="036b13" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
