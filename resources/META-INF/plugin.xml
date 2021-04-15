@@ -9,6 +9,12 @@
     ]]></description>
 
   <change-notes><![CDATA[
+    <b>2.4</b>
+
+    <ul>
+      <li>Add code highlight under caret on scroll bar (vrudas)</li>
+    </ul>
+
     <b>2.3</b>
 
     <ul>
