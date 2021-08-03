@@ -665,6 +665,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
+        <option name="BACKGROUND" value="323232" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="878787" />
       </value>
