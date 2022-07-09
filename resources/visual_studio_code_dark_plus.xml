@@ -9,6 +9,7 @@
   <colors>
     <option name="CARET_COLOR" value="adaeac" />
     <option name="CARET_ROW_COLOR" value="262626" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="1d1d1d" />
     <option name="GUTTER_BACKGROUND" value="1d1d1d" />
     <option name="INDENT_GUIDE" value="3b3b3b" />
     <option name="RIGHT_MARGIN_COLOR" value="3b3b3b" />
