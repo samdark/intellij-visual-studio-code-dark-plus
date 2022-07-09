@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>com.samdark.intellij-visual-studio-code-dark-plus</id>
   <name>Visual Studio Code Dark Plus Theme</name>
-  <version>2.5</version>
+  <version>2.6</version>
   <vendor email="sam@rmcreative.ru" url="https://rmcreative.ru">Alexander Makarov</vendor>
 
   <description><![CDATA[
@@ -9,6 +9,12 @@
     ]]></description>
 
   <change-notes><![CDATA[
+    <b>2.6</b>
+
+    <ul>
+      <li>Fix inconsistent console background (guihigashi)</li>
+    </ul>
+
     <b>2.5</b>
 
     <ul>
