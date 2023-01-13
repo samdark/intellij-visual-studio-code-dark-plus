@@ -13,11 +13,11 @@
     },
     "EditorTabs": {
       "selectedBackground": "#1d1d1d",
-      "underlinedTabBackground": "#1d1d1d",
+      "underlinedTabBackground": "#2080f0",
       "selectedForeground": "#e6e6e6",
       "inactiveMaskColor": "#2c2c2c",
       "inactiveColoredFileBackground": "#2c2c2c",
-      "underlineHeight": 0,
+      "underlineHeight": 3,
       "borderColor": "#323232"
     },
     "Panel" : {
