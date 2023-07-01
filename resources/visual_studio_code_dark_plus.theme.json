@@ -3,38 +3,63 @@
   "dark": true,
   "author": "Alexander Makarov",
   "editorScheme": "/visual_studio_code_dark_plus.xml",
+  "colors": {
+    "background": "#252526",
+    "editor": "#1e1e1e",
+    "inactiveTab": "#2d2d2d",
+    "selection": "#094770",
+    "text": "#c2c2c2",
+    "selectedText": "#ffffff",
+    "inactiveSelection": "#2a2d2e",
+    "accent": "#4a88c7",
+    "menuBorder": "#454545"
+  },
   "ui": {
     "*": {
-      "background": "#323232"
+      "foreground": "text",
+      "background": "background",
+      "selectionBackground": "selection",
+      "selectionForeground": "selectedText",
+      "separatorColor": "menuBorder",
+      "arc": 8
+    },
+    "MainToolbar": {
+      "background": "background"
+    },
+    "Editor": {
+      "background": "editor"
     },
     "Borders": {
-      "color": "#323232",
-      "ContrastBorderColor": "#323232"
+      "color": "background",
+      "ContrastBorderColor": "background"
+    },
+    "DefaultTabs": {
+      "background": "inactiveTab",
+      "hoverBackground": "inactiveTab",
+      "borderColor": "background"
     },
     "EditorTabs": {
-      "selectedBackground": "#1d1d1d",
-      "underlinedTabBackground": "#2080f0",
-      "selectedForeground": "#e6e6e6",
-      "inactiveMaskColor": "#2c2c2c",
-      "inactiveColoredFileBackground": "#2c2c2c",
       "underlineHeight": 3,
-      "borderColor": "#323232"
+      "inactiveUnderlineColor": "accent",
+      "underlineColor": "accent",
+      "underlinedTabBackground": "editor",
+      "underlinedTabForeground": "selectedText",
+
+      "selectedBackground": "inactiveTab"
     },
     "Panel" : {
-      "foreground": "#acacac",
-      "background": "#323232"
+      "foreground": "#acacac"
     },
     "Tree": {
-      "background": "#242425",
-      "foreground": "#c7c7c7",
-      "selectionBackground": "#094770",
-      "selectionForeground": "#f8fafb"
+      "modifiedItemForeground": "accent",
+      "selectionInactiveBackground": "inactiveSelection",
+      "Selection.arc": 0
     },
     "Menu": {
-      "background": "#323232",
-      "foreground": "#cbcbc2",
-      "borderColor": "#141414",
-      "separatorColor": "#606060"
+      "borderColor": "menuBorder"
+    },
+    "Popup": {
+      "borderColor": "menuBorder"
     },
     "PopupMenuSeparator": {
       "height": 13,
@@ -42,31 +67,24 @@
       "stripeWidth": 1
     },
     "MenuBar": {
-      "borderColor": "#323232"
-    },
-    "MenuItem": {
-      "background": "#242425",
-      "foreground": "#cbcbc2",
-      "selectionBackground": "#094770"
+      "borderColor": "background"
     },
     "NavBar": {
       "borderColor": "#323232"
-    },
-    "CompletionPopup": {
-      "background": "#242425",
-      "foreground": "#cecece"
     },
     "Button": {
       "arc": 2
     },
     "StatusBar": {
-      "borderColor": "#323232"
+      "borderColor": "background"
     },
     "ToolWindow": {
       "Header": {
-        "borderColor": "#323232",
-        "background": "#323232",
-        "inactiveBackground": "#323232"
+        "borderColor": "background",
+        "inactiveBackground": "background"
+      },
+      "Button": {
+        "hoverBackground": "inactiveSelection"
       }
     }
   }

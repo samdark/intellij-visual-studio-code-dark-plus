@@ -10,26 +10,26 @@
     <option name="CARET_COLOR" value="adaeac" />
     <option name="CARET_ROW_COLOR" value="262626" />
     <option name="CONSOLE_BACKGROUND_KEY" value="1d1d1d" />
+    <option name="DOCUMENTATION_COLOR" value="242425" />
     <option name="GUTTER_BACKGROUND" value="1d1d1d" />
     <option name="INDENT_GUIDE" value="3b3b3b" />
+    <option name="LINE_NUMBERS_COLOR" value="848484" />
+    <option name="LOOKUP_COLOR" value="242425" />
     <option name="RIGHT_MARGIN_COLOR" value="3b3b3b" />
     <option name="SELECTION_BACKGROUND" value="264e77" />
-    <option name="LINE_NUMBERS_COLOR" value="848484" />
+    <option name="ScrollBar.Mac.hoverThumbBorderColor" value="4e4e4e" />
+    <option name="ScrollBar.Mac.hoverThumbColor" value="4e4e4e" />
+    <option name="ScrollBar.Mac.hoverTrackColor" value="1d1d1d" />
+    <option name="ScrollBar.Mac.thumbBorderColor" value="414141" />
+    <option name="ScrollBar.Mac.thumbColor" value="414141" />
+    <option name="ScrollBar.Mac.trackColor" value="1d1d1d" />
+    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="4e4e4e" />
+    <option name="ScrollBar.Transparent.hoverThumbColor" value="4e4e4e" />
+    <option name="ScrollBar.Transparent.hoverTrackColor" value="1d1d1d" />
+    <option name="ScrollBar.Transparent.thumbBorderColor" value="414141" />
+    <option name="ScrollBar.Transparent.thumbColor" value="414141" />
+    <option name="ScrollBar.Transparent.trackColor" value="1d1d1d" />
     <option name="VISUAL_INDENT_GUIDE" value="3b3b3b" />
-
-    <option name="ScrollBar.Mac.trackColor" value="1d1d1d"/>
-    <option name="ScrollBar.Mac.thumbColor" value="414141"/>
-    <option name="ScrollBar.Mac.thumbBorderColor" value="414141"/>
-    <option name="ScrollBar.Mac.hoverTrackColor" value="1d1d1d"/>
-    <option name="ScrollBar.Mac.hoverThumbColor" value="4e4e4e"/>
-    <option name="ScrollBar.Mac.hoverThumbBorderColor" value="4e4e4e"/>
-
-    <option name="ScrollBar.Transparent.trackColor" value="1d1d1d"/>
-    <option name="ScrollBar.Transparent.thumbColor" value="414141"/>
-    <option name="ScrollBar.Transparent.thumbBorderColor" value="414141"/>
-    <option name="ScrollBar.Transparent.hoverTrackColor" value="1d1d1d"/>
-    <option name="ScrollBar.Transparent.hoverThumbColor" value="4e4e4e"/>
-    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="4e4e4e"/>
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
@@ -495,7 +495,7 @@
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="33393f" />
-        <option name="ERROR_STRIPE_COLOR" value="A0A0A0" />
+        <option name="ERROR_STRIPE_COLOR" value="a0a0a0" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -759,7 +759,7 @@
     <option name="PROPERTIES.KEY" baseAttributes="DEFAULT_KEYWORD" />
     <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="DEFAULT_OPERATION_SIGN" />
     <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
-     <option name="PY.BUILTIN_NAME">
+    <option name="PY.BUILTIN_NAME">
       <value>
         <option name="FOREGROUND" value="39c8b0" />
       </value>
@@ -796,6 +796,12 @@
       <value>
         <option name="FOREGROUND" value="d16969" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ReSharper.ASP_NET_RAZOR_CODE_BLOCK">
+      <value>
+        <option name="BACKGROUND" value="1e1e1e" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
@@ -894,11 +900,5 @@
     </option>
     <option name="XPATH.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
-    <option name="ReSharper.ASP_NET_RAZOR_CODE_BLOCK">
-      <value>
-        <option name="BACKGROUND" value="1e1e1e" />
-        <option name="EFFECT_TYPE" value="5" />
-      </value>
-    </option>
   </attributes>
 </scheme>
