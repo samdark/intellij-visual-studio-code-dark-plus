@@ -9,14 +9,14 @@ There are multiple ways:
 
 # Useful reading
 
-- [Getting started with IntelliJ plugins](http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started.html)
-- [plugin.xml](http://www.jetbrains.org/intellij/sdk/docs/basics/plugin_structure/plugin_configuration_file.html)
+- [Getting started with IntelliJ plugins](https://plugins.jetbrains.com/docs/intellij/developing-plugins.html)
+- [plugin.xml](https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html)
 
 ## Code highlighting
 
-- [Editor Schemes and Background Images](http://www.jetbrains.org/intellij/sdk/docs/reference_guide/ui_themes/themes_extras.html)
+- [Editor Schemes and Background Images](https://plugins.jetbrains.com/docs/intellij/themes-extras.html)
 
 ## UI-related
 
-- [Theming guide](http://www.jetbrains.org/intellij/sdk/docs/reference_guide/ui_themes/themes_intro.html)
-- [Internal Actions - LaF Defaults](http://www.jetbrains.org/intellij/sdk/docs/reference_guide/internal_actions/internal_ui_lafd.html)
+- [Theming guide](https://plugins.jetbrains.com/docs/intellij/themes-getting-started.html)
+- [Internal Actions - LaF Defaults](https://plugins.jetbrains.com/docs/intellij/internal-ui-laf-defaults.html)
