@@ -124,7 +124,7 @@
   <extensions defaultExtensionNs="com.intellij">
     <!-- Add your extensions here -->
     <themeProvider id="e843a6a0-d4df-4c2a-b5b6-99dcbb839b8d" path="/visual_studio_code_dark_plus.theme.json"/>
-    <bundledColorScheme path="/visual_studio_code_dark_plus"/>
+    <bundledColorScheme id="com.samdark.intellij-visual-studio-code-dark-plus" path="/visual_studio_code_dark_plus"/>
   </extensions>
 
   <actions>
