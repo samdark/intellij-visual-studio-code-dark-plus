@@ -806,7 +806,8 @@
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="dcdcaa" />
+        <option name="FOREGROUND" value="004fff" />
+        <option name="ERROR_STRIPE_COLOR" value="42bd77" />
       </value>
     </option>
     <option name="SQL_COLUMN">
@@ -900,5 +901,23 @@
     </option>
     <option name="XPATH.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="LINE_FULL_COVERAGE">
+      <value>
+        <option name="BACKGROUND" value="485848" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LINE_NONE_COVERAGE">
+      <value>
+        <option name="BACKGROUND" value="715353" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LINE_PARTIAL_COVERAGE">
+      <value>
+        <option name="BACKGROUND" value="80805a" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
   </attributes>
 </scheme>

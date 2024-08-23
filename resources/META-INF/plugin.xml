@@ -9,6 +9,14 @@
     ]]></description>
 
   <change-notes><![CDATA[
+    <b>2.9</b>
+
+    <ul>
+      <li>Add id field to the bundledColorScheme entry in plugin.xml (LtdJorge)</li>
+      <li>Fix usages highlighting.</li>
+      <li>Fix code coverage highlighting.</li>
+    </ul>
+
     <b>2.8</b>
 
     <ul>
