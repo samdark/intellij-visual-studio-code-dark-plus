@@ -1,3 +1,5 @@
+.gradle
 .idea
-*.jar
-out
+.intellijPlatform
+.qodana
+build
