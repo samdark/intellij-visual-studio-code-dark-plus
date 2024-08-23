@@ -15,6 +15,7 @@
       <li>Add id field to the bundledColorScheme entry in plugin.xml (LtdJorge)</li>
       <li>Fix usages highlighting.</li>
       <li>Fix code coverage highlighting.</li>
+      <li>Add C# highlighting.</li>
     </ul>
 
     <b>2.8</b>
